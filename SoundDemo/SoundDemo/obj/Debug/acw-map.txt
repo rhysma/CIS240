@@ -1,0 +1,4 @@
+SoundDemo.MainActivity, SoundDemo;md5ae7f51765926038fa2aa5f823f497ddc.MainActivity
+SoundDemo.MainActivity, SoundDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ae7f51765926038fa2aa5f823f497ddc.MainActivity
+SoundDemo.MainActivity;md5ae7f51765926038fa2aa5f823f497ddc.MainActivity
+sounddemo.MainActivity;md5ae7f51765926038fa2aa5f823f497ddc.MainActivity
