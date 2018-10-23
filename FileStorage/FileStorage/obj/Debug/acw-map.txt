@@ -1,0 +1,4 @@
+FileStorage.MainActivity, FileStorage;md56da49b9661aaf30cea593d7edb806f8d.MainActivity
+FileStorage.MainActivity, FileStorage, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56da49b9661aaf30cea593d7edb806f8d.MainActivity
+FileStorage.MainActivity;md56da49b9661aaf30cea593d7edb806f8d.MainActivity
+filestorage.MainActivity;md56da49b9661aaf30cea593d7edb806f8d.MainActivity
