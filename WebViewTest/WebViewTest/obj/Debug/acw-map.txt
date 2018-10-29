@@ -1,0 +1,4 @@
+WebViewTest.MainActivity, WebViewTest;md5979f22e223c799e1eab88999b3268016.MainActivity
+WebViewTest.MainActivity, WebViewTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5979f22e223c799e1eab88999b3268016.MainActivity
+WebViewTest.MainActivity;md5979f22e223c799e1eab88999b3268016.MainActivity
+webviewtest.MainActivity;md5979f22e223c799e1eab88999b3268016.MainActivity
