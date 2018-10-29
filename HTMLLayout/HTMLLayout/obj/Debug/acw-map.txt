@@ -1,0 +1,4 @@
+HTMLLayout.MainActivity, HTMLLayout;md5c6d45e1a457ca9cdf1318f41ced40ee4.MainActivity
+HTMLLayout.MainActivity, HTMLLayout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c6d45e1a457ca9cdf1318f41ced40ee4.MainActivity
+HTMLLayout.MainActivity;md5c6d45e1a457ca9cdf1318f41ced40ee4.MainActivity
+htmllayout.MainActivity;md5c6d45e1a457ca9cdf1318f41ced40ee4.MainActivity
