@@ -1,0 +1,4 @@
+RESTExample.MainActivity, RESTExample;md59fed867d4a1f85720caa161c2b2b008f.MainActivity
+RESTExample.MainActivity, RESTExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59fed867d4a1f85720caa161c2b2b008f.MainActivity
+RESTExample.MainActivity;md59fed867d4a1f85720caa161c2b2b008f.MainActivity
+restexample.MainActivity;md59fed867d4a1f85720caa161c2b2b008f.MainActivity
