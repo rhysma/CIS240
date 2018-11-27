@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Book Collection"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_marginBottom="39.0dp"
+        android:layout_marginLeft="0.0dp" />
+    <TextView
+        android:text="Book Title"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bookTitleBox" />
+    <TextView
+        android:text="Book Author"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bookAuthorBox" />
+    <TextView
+        android:text="Book ISBN"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bookISBNBox" />
+    <Button
+        android:text="Add Book"
+        android:layout_width="match_parent"
+        android:layout_height="64.5dp"
+        android:id="@+id/AddButton"
+        android:layout_marginBottom="47.5dp" />
+    <Button
+        android:text="View Books"
+        android:layout_width="match_parent"
+        android:layout_height="66.5dp"
+        android:id="@+id/ViewButton" />
+</LinearLayout>

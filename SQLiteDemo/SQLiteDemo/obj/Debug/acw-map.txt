@@ -1,0 +1,8 @@
+SQLiteDemo.MainActivity, SQLiteDemo;md507a87a91ada734aedf13dbad92e3e24f.MainActivity
+SQLiteDemo.MainActivity, SQLiteDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md507a87a91ada734aedf13dbad92e3e24f.MainActivity
+SQLiteDemo.MainActivity;md507a87a91ada734aedf13dbad92e3e24f.MainActivity
+sqlitedemo.MainActivity;md507a87a91ada734aedf13dbad92e3e24f.MainActivity
+SQLiteDemo.ViewBooksActivity, SQLiteDemo;md507a87a91ada734aedf13dbad92e3e24f.ViewBooksActivity
+SQLiteDemo.ViewBooksActivity, SQLiteDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md507a87a91ada734aedf13dbad92e3e24f.ViewBooksActivity
+SQLiteDemo.ViewBooksActivity;md507a87a91ada734aedf13dbad92e3e24f.ViewBooksActivity
+sqlitedemo.ViewBooksActivity;md507a87a91ada734aedf13dbad92e3e24f.ViewBooksActivity
